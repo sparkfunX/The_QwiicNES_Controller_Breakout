@@ -189,8 +189,8 @@
 <library name="NES">
 <packages>
 <package name="NES_CONTROLLER_PORT_7PIN_90">
-<hole x="-10.033" y="0" drill="4.064"/>
-<hole x="10.033" y="0" drill="4.064"/>
+<hole x="-10.033" y="0" drill="3.302"/>
+<hole x="10.033" y="0" drill="3.302"/>
 <pad name="1" x="-6.096" y="-13.335" drill="1.27"/>
 <pad name="2" x="-2.032" y="-13.335" drill="1.27"/>
 <pad name="3" x="2.032" y="-13.335" drill="1.27"/>
